@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* styles-Gift-Guide.css */
+
+/* Basic reset for margins and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: #007acc;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+	color: white;
+}
+/* Header navigation */
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Main content styling */
+main {
+    padding: 20px;
+}
+
+/* Section styling */
+section {
+    margin-bottom: 40px;
+}
+
+/* Blockquote styling for introductions */
+blockquote {
+    border-left: 5px solid #007acc;
+    padding-left: 15px;
+    color: #555;
+    font-style: italic;
+}
+
+/* H1 and H2 styling */
+h1, h2 {
+    color: #007acc;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Footer styling */
+footer {
+    background-color: #007acc;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 40px;
+}
+
+/* Link styling */
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
