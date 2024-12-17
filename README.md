@@ -1,7 +1,2 @@
-- [ ] Complete HTML files
-      - [x] Complete index.html
-      - [x] Complete Gift guide for boys
-      - [ ] Make Gift guide for girls
-      - [ ] Make the actual files for the more indepth description of the gifts
-- [ ] Make styles.css
-      - [ ] Complete styles.css
+- [X] Complete Gift Ideas For Boys
+- [X] Make styles.css
