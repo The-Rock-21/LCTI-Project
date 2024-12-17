@@ -1,7 +1,5 @@
-@charset "utf-8";
 /* styles-Gift-Guide.css */
 
-/* Basic reset for margins and padding */
 * {
     margin: 0;
     padding: 0;
@@ -19,13 +17,11 @@ body {
 /* Header styling */
 header {
     background-color: #007acc;
+    color: white;
     padding: 20px 0;
     text-align: center;
 }
 
-header h1 {
-	color: white;
-}
 /* Header navigation */
 header nav ul {
     list-style-type: none;
@@ -39,11 +35,11 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color: #333333;
     text-decoration: none;
 }
 
-/* Main content styling */
+/* Main styling */
 main {
     padding: 20px;
 }
@@ -53,7 +49,7 @@ section {
     margin-bottom: 40px;
 }
 
-/* Blockquote styling for introductions */
+/* Blockquote styling
 blockquote {
     border-left: 5px solid #007acc;
     padding-left: 15px;
@@ -63,7 +59,7 @@ blockquote {
 
 /* H1 and H2 styling */
 h1, h2 {
-    color: #007acc;
+    color: white;
     margin-bottom: 20px;
 }
 
@@ -98,4 +94,13 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+/* Class styling*/
+.margin {
+	margin: -5px;
+}
+
+.search-result {
+	color:orange;
 }
