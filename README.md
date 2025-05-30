@@ -1,2 +1,1 @@
-- [X] Complete Gift Ideas For Boys
-- [X] Make styles.css
+Nothing important here. Just a school project
